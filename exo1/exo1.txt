@@ -1,0 +1,5 @@
+Écris une fonction en Go qui compte le nombre de lettres dans une chaîne de caractères.
+
+- Seules les lettres A à Z (majuscules ou minuscules) sont comptées.
+- Ignore les chiffres, symboles, espaces et lettres accentuées.
+- Utilise les valeurs ASCII pour faire la vérification.

@@ -13,8 +13,8 @@ func CountLetters(s string) int {
 }
 
 func main() {
-	fmt.Println(CountLetters("Curry"))   // 10
-	fmt.Println(CountLetters("JSP"))     // 0
-	fmt.Println(CountLetters("Coucou"))  // 6
-	fmt.Println(CountLetters("bonjour")) // 4
+	fmt.Println(CountLetters("Curry"))
+	fmt.Println(CountLetters("JSP"))
+	fmt.Println(CountLetters("Coucou"))
+	fmt.Println(CountLetters("bonjour"))
 }
